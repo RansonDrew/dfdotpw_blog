@@ -7,3 +7,5 @@ Feel free to click around. This is a test site. But that doesn't diminish the tu
 If all goes well I can make changes to this from multiple computers, but I'm not sure how this will affect the firebase cli.
 
 A minor update.
+
+Another small update for another test.
