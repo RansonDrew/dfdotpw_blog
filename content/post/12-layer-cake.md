@@ -7,4 +7,6 @@ images:
 tags:
   - untagged
 ---
-{{< instagram B5REJr-HL9a >}}
+My take on a Smith Island cake. It was twelve layers of yum.
+![A twelve layer cake](12-layer-cake.jpg)
+

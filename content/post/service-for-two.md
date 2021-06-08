@@ -7,4 +7,7 @@ images:
 tags:
   - untagged
 ---
-{{< instagram B5REkrJnfCr >}}
+
+Two ample servings of Smith Island cake. One for each of us.
+![Service for two](service-for-two.jpg)
+
