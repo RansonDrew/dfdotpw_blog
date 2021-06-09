@@ -1,6 +1,6 @@
 baseurl = "https://www.drewfowler.pw"
 languageCode = "en-us"
-theme = "terminal"
+theme = "hello-friend-ng"
 paginate = 5
 
 
