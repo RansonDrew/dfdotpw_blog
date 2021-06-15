@@ -11,6 +11,10 @@ paginate = 5
   fullWidthTheme = false
   centerTheme = false
 
+[taxonomies]
+  category = "categories"
+  tag = "tag"
+
 [languages]
   [languages.en]
     title = "DF dot PW"
@@ -31,9 +35,13 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
+        identifier = "posts"
+        name = "Posts"
         url = "/post"
+      [[languages.en.menu.main]]
+	identifier = "ffxiv_collections"
+	name = "FFXIV Collections"
+	url = "/collections"
 [deployment]
 # By default, files are uploaded in an arbitrary order.
 # Files that match the regular expressions in the "Order" list
