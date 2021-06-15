@@ -4,8 +4,6 @@ date: 2019-11-24T22:01:40-04:00
 draft: false
 toc: false
 images:
-tags:
-  - untagged
 ---
 
 Two ample servings of Smith Island cake. One for each of us.

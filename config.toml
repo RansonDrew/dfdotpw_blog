@@ -13,7 +13,7 @@ paginate = 5
 
 [taxonomies]
   category = "categories"
-  tag = "tag"
+  tag = "tags"
 
 [languages]
   [languages.en]

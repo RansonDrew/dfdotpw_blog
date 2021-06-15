@@ -4,8 +4,6 @@ date: 2019-11-24T21:56:01-04:00
 draft: false
 toc: false
 images:
-tags:
-  - untagged
 ---
 My take on a Smith Island cake. It was twelve layers of yum.
 ![A twelve layer cake](12-layer-cake.jpg)

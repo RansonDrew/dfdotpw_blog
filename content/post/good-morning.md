@@ -5,7 +5,5 @@ draft: false
 toc: false
 images:
   - good-morning.jpg
-tags:
-  - untagged
 ---
 ![Scruffy Drew](good-morning.jpg)

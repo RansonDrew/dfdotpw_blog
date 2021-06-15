@@ -2,6 +2,8 @@
 title: "A Serious Stinker"
 date: 2020-06-15T21:52:37-04:00
 draft: false
+tags:
+  - Cat
 ---
 Now with an update!
 Don't let him fool you. This guy is a serious stinker.
