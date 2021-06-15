@@ -7,7 +7,7 @@ images:
 categories:
   - "Orchestrion Rolls"
 tags:
-  - "Orchestrion Rolls"
+  - "FFXIV Collectables"
 ---
 ## Locales - I
 
