@@ -17,7 +17,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "DF dot PW"
+    title = "FDARetiredDotCom"
     subtitle = "A test Blog for Cloudfront and S3"
     keywords = ""
     copyright = ""
@@ -26,7 +26,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "DF dot PW"
+      logoText = "FDARetiredDotCom"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -67,7 +67,7 @@ URL = "s3://tbdotc?region=us-east-2"
 # URL = "gs://<Bucket Name>?prefix=a/subfolder/"
 
 # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-cloudFrontDistributionID = "E2OCPIU0VXMO98"
+cloudFrontDistributionID = "ENC3PYMO9FA7R"
 
 # Optionally, you can include or exclude specific files.
 # See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
